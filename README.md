@@ -39,7 +39,7 @@
     - Problem Solving
     
   - Week #5:
-    - Write an efficient programme in Python [ [link_1](https://www.youtube.com/watch?v=YjHsOrOOSuI), [link_2](https://www.youtube.com/watch?v=OSGv2VnC0go), [link_3](https://docs.python-guide.org/writing/style/), [link_4](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html) ]
+    - Write an efficient programme in Python [ [link_1](https://www.youtube.com/watch?v=YjHsOrOOSuI), [link_2](https://www.youtube.com/watch?v=OSGv2VnC0go), [link_3](https://studylib.net/doc/11685039/python-idioms-safe-hammad-python-northwest-16), [link_4](https://docs.python-guide.org/writing/style/), [link_5](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html) ]
     - File Handling [ Rafsanjani's Note ]
     - Problem Solving
     
