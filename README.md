@@ -23,24 +23,30 @@
   - Week #1:
     - Flow Chart
     - Syntextual Python
+    - Logical Operator
+    - Problem Solving
     
   - Week #2:
-    - A
-      - A1
-      - A2
-      - A3
-    - B
-      - B1
-      - B2
-      - B3
-  
+    - Iteration (looping concept)
+    - Problem Solving
   - Week #3:
+    - Problem Solving
   - Week #4:
+    - Develop a game (Tic-Tac-Toe, Grid, etc.)
+    - Problem Solving
   - Week #5:
+    - Problem Solving
   - Week #6:
+    - Problem Solving
   - Week #7:
+    - Problem Solving
   - Week #8:
+    - Problem Solving
   - Week #9:
+    - Problem Solving
   - Week #10:
+    - Problem Solving
   - Week #11:
+    - Problem Solving
   - Week #12:
+    - Problem Solving
