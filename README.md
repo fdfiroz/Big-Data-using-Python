@@ -23,7 +23,7 @@
   - Week #1:
     - Flow Chart
     - Syntextual Python
-    - Logical Operator
+    - Logical Operator (if-else concept)
     - Problem Solving
     
   - Week #2:
