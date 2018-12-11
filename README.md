@@ -75,6 +75,10 @@
 - GeeksForGeeks [ [link](https://www.geeksforgeeks.org/python-programming-language) ]
 
 # Essential Software
-
+#### Interpreter
+- Python basic:
+- Anaconda: 
 #### IDE:
 - PyCharm [ [link](https://www.jetbrains.com/pycharm/download/#section=windows) ]
+- Online IDE (GeeksForGeeks): [ []() ]
+- Online IDE (Visualized Python): [ []() ]
