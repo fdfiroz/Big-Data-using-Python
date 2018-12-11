@@ -1,7 +1,7 @@
 # Syllabus
-### A
-### B
-### C
+#### Programming Architecture using Python
+#### B
+#### C
 
 # Course Schedule
   - Week #1:
