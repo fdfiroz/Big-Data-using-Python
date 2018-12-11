@@ -4,10 +4,10 @@
 - Coming Soon
 
 ### Videos:
-- Learn Python - Full Course for Beginners [link](https://www.youtube.com/watch?v=rfscVS0vtbw&feature=youtu.be)
+- Learn Python - Full Course for Beginners [[link](https://www.youtube.com/watch?v=rfscVS0vtbw&feature=youtu.be)]
 
 ### Blogs:
-- GeeksForGeeks [link](https://www.geeksforgeeks.org/python-programming-language)
+- GeeksForGeeks [[link](https://www.geeksforgeeks.org/python-programming-language)]
 
 # Essential Software
 
