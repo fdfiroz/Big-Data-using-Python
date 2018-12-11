@@ -1,8 +1,8 @@
 # Syllabus
-#### Introduction to Programming using Python (Week 1 to 6)
-#### Data Mining (Week 7 to 8)
-#### Introduction to Data Science (Week 9 to 12)
-#### Python for Industries (Week 13 to 14)
+##### 1. Introduction to Programming using Python (Week 1 to 6)
+##### 2. Data Mining (Week 7 to 8)
+##### 3. Introduction to Data Science (Week 9 to 12)
+##### 4. Python for Industries (Week 13 to 14)
 
 # Course Schedule
   - Week #1:
