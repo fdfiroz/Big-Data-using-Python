@@ -35,6 +35,8 @@
     - Develop a game (Tic-Tac-Toe, Grid, etc.)
     - Problem Solving
   - Week #5:
+    - Write an efficient programme in Python [ [link_1](https://www.youtube.com/watch?v=YjHsOrOOSuI), [link_2](https://www.youtube.com/watch?v=OSGv2VnC0go), [link_3](https://docs.python-guide.org/writing/style/), [link_4](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html) ]
+    - File Handling
     - Problem Solving
   - Week #6:
     - Problem Solving
