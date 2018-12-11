@@ -1,10 +1,8 @@
 # Syllabus
-#### Programming Architecture using Python
-- A
-  - B
-    - C
-#### B
-#### C
+#### Introduction to Programming using Python (Week 1 to 5)
+#### Data Mining (Week 5 to 7)
+#### Introduction to Machine Learing (Week 8)
+#### 
 
 # Course Schedule
   - Week #1:
@@ -31,6 +29,8 @@
     - Problem Solving
     
   - Week #6:
+    - Data Mining Concepts
+    - Web Scraping, Web Crawling
     - Problem Solving
     
   - Week #7:
