@@ -1,19 +1,3 @@
-# Learning Resources
-
-### Text Books:
-- Coming Soon
-
-### Videos:
-- Learn Python - Full Course for Beginners [[link](https://www.youtube.com/watch?v=rfscVS0vtbw&feature=youtu.be)]
-
-### Blogs:
-- GeeksForGeeks [[link](https://www.geeksforgeeks.org/python-programming-language)]
-
-# Essential Software
-
-### IDE:
-- PyCharm [[link](https://www.jetbrains.com/pycharm/download/#section=windows)]
-
 # Syllabus
 ### A
 ### B
@@ -64,3 +48,21 @@
   - Week #12:
     - Problem Solving
     
+
+# Learning Resources
+
+### Text Books:
+- A
+- B
+- C
+
+### Videos:
+- Learn Python - Full Course for Beginners [[link](https://www.youtube.com/watch?v=rfscVS0vtbw&feature=youtu.be)]
+
+### Blogs:
+- GeeksForGeeks [ [link](https://www.geeksforgeeks.org/python-programming-language) ]
+
+# Essential Software
+
+#### IDE:
+- PyCharm [ [link](https://www.jetbrains.com/pycharm/download/#section=windows) ]
