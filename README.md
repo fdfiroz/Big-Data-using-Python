@@ -87,6 +87,7 @@
 #### Interpreter
 - Python basic [ [link](https://www.python.org/) ]
 - Anaconda [ [link](https://www.anaconda.com/download/) ]
+
 #### IDE:
 - PyCharm [ [link](https://www.jetbrains.com/pycharm/download/#section=windows) ]
 - Online IDE [ [GeeksForGeeks](https://ide.geeksforgeeks.org/) ]
