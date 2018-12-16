@@ -47,11 +47,11 @@
      
   - Week #9:
     - Introduction to Data Science
-    - `NumPy', `pandas', `SciPy'
+    - `NumPy`, `pandas`, `SciPy`
     - Problem Solving
     
   - Week #10:
-    - Visualization Data with `matplotlib'
+    - Visualization Data with `matplotlib`
     - Problem Solving
     
   - Week #11:
