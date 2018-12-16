@@ -47,11 +47,11 @@
      
   - Week #9:
     - Introduction to Data Science
-    - NumPy, pandas, SciPy
+    - `NumPy', `pandas', `SciPy'
     - Problem Solving
     
   - Week #10:
-    - Visualization Data with ``matplotlib''
+    - Visualization Data with `matplotlib'
     - Problem Solving
     
   - Week #11:
@@ -87,7 +87,6 @@
 #### Interpreter
 - Python basic [ [link](https://www.python.org/) ]
 - Anaconda [ [link](https://www.anaconda.com/download/) ]
-
 #### IDE:
 - PyCharm [ [link](https://www.jetbrains.com/pycharm/download/#section=windows) ]
 - Online IDE [ [GeeksForGeeks](https://ide.geeksforgeeks.org/) ]
