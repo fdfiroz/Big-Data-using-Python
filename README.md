@@ -66,20 +66,20 @@
 # Learning Resources
 
 ### Text Books:
-- A
-- B
-- C
+- Automate the Boring Stuff with Python [ [link](https://automatetheboringstuff.com/) ]
+- Machine Learning with Python [ [link](https://www.amazon.com/gp/product/1449369413/ref=as_li_tl?ie=UTF8&tag=stackabuse-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1449369413&linkId=31239243b4437cdb25c55fc05fec5f72) ]
 
 ### Videos:
-- Learn Python - Full Course for Beginners [[link](https://www.youtube.com/watch?v=rfscVS0vtbw&feature=youtu.be)]
+- Learn Python (Full Course for Beginners) [ [link](https://www.youtube.com/watch?v=rfscVS0vtbw&feature=youtu.be) ]
 
 ### Blogs:
 - GeeksForGeeks [ [link](https://www.geeksforgeeks.org/python-programming-language) ]
+- Learn Python [ [link](https://www.learnpython.org/) ]
 
 # Essential Software
 #### Interpreter
-- Python [ [basic](https://www.python.org/) ]
-- Anaconda [](https://www.anaconda.com/download/)
+- Python basic [ [link](https://www.python.org/) ]
+- Anaconda [ [link](https://www.anaconda.com/download/) ]
 
 #### IDE:
 - PyCharm [ [link](https://www.jetbrains.com/pycharm/download/#section=windows) ]
