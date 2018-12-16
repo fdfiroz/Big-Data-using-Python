@@ -46,21 +46,28 @@
     - Problem Solving
      
   - Week #9:
+    - Introduction to Data Science
+    - NumPy, pandas, SciPy
     - Problem Solving
     
   - Week #10:
+    - Visualization Data with ``matplotlib''
     - Problem Solving
     
   - Week #11:
+    - Excel Manipulation with Python
     - Problem Solving
     
   - Week #12:
+    - Advanced Excel Manipulation with Python
     - Problem Solving
     
   - Week #13:
+    - TensorFlow, PyTorch
     - Problem Solving
   
   - Week #14:
+    - Some Successful Project on Python
     - Problem Solving
 
 # Learning Resources
