@@ -78,9 +78,10 @@
 
 # Essential Software
 #### Interpreter
-- Python basic:
-- Anaconda: 
+- Python [ [basic](https://www.python.org/) ]
+- Anaconda [](https://www.anaconda.com/download/)
+
 #### IDE:
 - PyCharm [ [link](https://www.jetbrains.com/pycharm/download/#section=windows) ]
-- Online IDE (GeeksForGeeks): [ []() ]
-- Online IDE (Visualized Python): [ []() ]
+- Online IDE [ [GeeksForGeeks](https://ide.geeksforgeeks.org/) ]
+- Online IDE [ [Visualized Python](http://www.pythontutor.com/visualize.html#mode=edit) ]
