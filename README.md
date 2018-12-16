@@ -15,6 +15,7 @@
   - Week #2:
     - Iteration (looping concept)
     - Problem Solving
+    - Slides [ [Big Data using Python-3](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/Big%20Data%20with%20Python-3.pdf) ]
     
   - Week #3:
     - Python Data Structures: Array (List), Tuple, Set, Dictionay, Stack, Queue
