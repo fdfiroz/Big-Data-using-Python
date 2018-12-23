@@ -21,6 +21,7 @@
   - Week #3:
     - Python Data Structures: Array (List), Tuple, Set, Dictionay, Stack, Queue
     - Problem Solving
+    - Slides [ [Big Data using Python-4](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/Big%20Data%20with%20Python-4.pdf) ]
     
   - Week #4:
     - Function
