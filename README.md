@@ -86,7 +86,6 @@
     - Problem Solving
     - Blogs [ [link_1](https://www.netguru.co/blog/8-top-companies-that-use-python-for-their-apps-examples-of-top-notch-python-applications) ]
     - Slides [ [Successful Python Project](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/PythonBrochure.pdf) ]
-    PythonBrochure.pdf
 
 # Learning Resources
 
