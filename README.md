@@ -75,7 +75,7 @@
   - Week #14:
     - Some Successful Machine Learning Project on Python
     - Problem Solving
-    - Blogs [ [link_1](https://www.netguru.co/blog/8-top-companies-that-use-python-for-their-apps-examples-of-top-notch-python-applications)
+    - Blogs [ [link_1](https://www.netguru.co/blog/8-top-companies-that-use-python-for-their-apps-examples-of-top-notch-python-applications) ]
 
 # Learning Resources
 
