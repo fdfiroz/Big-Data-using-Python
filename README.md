@@ -68,6 +68,7 @@
     - Problem Solving
     
   - Week #13:
+    - Financial Technology (FINTECH) with Python
     - Excel Manipulation with Python
     - Problem Solving
     
