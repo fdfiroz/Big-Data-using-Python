@@ -10,7 +10,7 @@
     - Syntextual Python
     - Logical Operation (if-else concept)
     - Problem Solving
-    - Slides [ [Big Data using Python-1](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/Big%20Data%20with%20Python-1.pdf), [Big Data using Python-2](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/Big%20Data%20with%20Python-2.pdf) ]
+   <!-- -Slides [ [Big Data using Python-1](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/Big%20Data%20with%20Python-1.pdf), [Big Data using Python-2](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/Big%20Data%20with%20Python-2.pdf) ]-->
     
   - Week #2:
     - Iteration (looping concept)
