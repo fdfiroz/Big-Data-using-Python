@@ -49,6 +49,7 @@
   - Week #8:
     - Introduction to Competitive Programming
     - Problem Solving
+    - Slides [ [Introduction Competitive Programming](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/Introduction%20to%20competitive%20programming.pdf) ]
   
   - Week #9:
     - Introduction to Data Mining
