@@ -66,7 +66,7 @@
     - Introduction to Data Science
     - `NumPy`, `pandas`, `SciPy`
     - Problem Solving
-    - Slides / Blogs [ [Numpy Online](http://cs231n.github.io/python-numpy-tutorial/), [pandas Online-1](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python), [pandas Online-2](https://www.dataquest.io/blog/pandas-python-tutorial/), [pandas Data Analysis Video-1](https://www.youtube.com/watch?v=oGzU688xCUs&t=3s), [pandas Data Analysis Video-2](https://www.youtube.com/watch?v=V0u6bxQOUJ8) ]
+    - Slides / Blogs [ [numpy Online](http://cs231n.github.io/python-numpy-tutorial/), [pandas Online-1](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python), [pandas Online-2](https://www.dataquest.io/blog/pandas-python-tutorial/), [pandas Data Analysis Video-1](https://www.youtube.com/watch?v=oGzU688xCUs&t=3s), [pandas Data Analysis Video-2](https://www.youtube.com/watch?v=V0u6bxQOUJ8) ]
     
   - Week #12:
     - Visualization Data with `matplotlib` and `Google Spreadsheet`
