@@ -38,44 +38,44 @@
     - Develop a game (Tic-Tac-Toe, Grid, etc.)
     - Problem Solving
     
-  - Week #6:
+  - Week #7:
     - Write an efficient programme in Python [ [link_1](https://www.youtube.com/watch?v=YjHsOrOOSuI), [link_2](https://www.youtube.com/watch?v=OSGv2VnC0go), [link_3](https://studylib.net/doc/11685039/python-idioms-safe-hammad-python-northwest-16), [link_4](https://docs.python-guide.org/writing/style/), [link_5](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html) ]
     - File Handling [ Rafsanjani's Note ]
     - Problem Solving
     - Slides [ [Writing Faster Code by S. Witowski](http://switowski.github.io/europython2016/#/), [Python Idioms by S. Hammad](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/python-idioms.pdf) ]
     
-  - Week #7:
+  - Week #8:
     - Introduction to Competitive Programming
     - Problem Solving
   
-  - Week #8:
+  - Week #9:
     - Introduction to Data Mining
     - Web Scraping & Web Crawling
     - Problem Solving
     
-  - Week #9:
+  - Week #10:
     - Advanced Data Mining
     - Advanced Web Scraping & Web Crawling
     - Problem Solving
      
-  - Week #9:
+  - Week #11:
     - Introduction to Data Science
     - `NumPy`, `pandas`, `SciPy`
     - Problem Solving
     
-  - Week #10:
+  - Week #12:
     - Visualization Data with `matplotlib`
     - Problem Solving
     
-  - Week #11:
+  - Week #13:
     - Excel Manipulation with Python
     - Problem Solving
     
-  - Week #13:
+  - Week #14:
     - PyTorch, TensorFlow, OpenCV
     - Problem Solving
   
-  - Week #14:
+  - Week #15:
     - Some Successful Project on Python
     - Problem Solving
 
