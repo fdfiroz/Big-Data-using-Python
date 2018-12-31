@@ -80,9 +80,11 @@
     - Blogs / Slides [ [Google SpreadSheet with Python-1](https://towardsdatascience.com/how-to-access-google-sheet-data-using-the-python-api-and-convert-to-pandas-dataframe-5ec020564f0e), [Google SpreadSheet with Python-2](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html) ]
     
   - Week #14:
-    - Some Successful Machine Learning Project on Python
+    - Some Successful Project employing Python
     - Problem Solving
     - Blogs [ [link_1](https://www.netguru.co/blog/8-top-companies-that-use-python-for-their-apps-examples-of-top-notch-python-applications) ]
+    - Slides [ [Successful Python Project](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/PythonBrochure.pdf) ]
+    PythonBrochure.pdf
 
 # Learning Resources
 
