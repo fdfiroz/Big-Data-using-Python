@@ -19,16 +19,22 @@
     - Slides [ [Big Data using Python-3](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/Big%20Data%20with%20Python-3.pdf) ]
     
   - Week #3:
-    - Python Data Structures: Array (List), Tuple, Set, Dictionay, Stack, Queue
+    - Python Data Structures (Basic): Array (List), Tuple, Set, Dictionay, Stack, Queue
     - Problem Solving
     - Slides [ [Big Data using Python-4](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/Big%20Data%20with%20Python-4.pdf) ]
-    
+  
   - Week #4:
+    - Python Data Structures (Advanced): Array (List), Tuple, Set, Dictionay, Stack, Queue
+    - Problem Solving
+    - Slides [ [Big Data using Python-4](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/Big%20Data%20with%20Python-4.pdf) ]
+  
+  - Week #5:
     - Function
     - Object-Oriented Programming 
     - Problem Solving
   
-  - Week #5:
+  - Week #6:
+    - Time Complexity Analysis
     - Develop a game (Tic-Tac-Toe, Grid, etc.)
     - Problem Solving
     
@@ -36,15 +42,19 @@
     - Write an efficient programme in Python [ [link_1](https://www.youtube.com/watch?v=YjHsOrOOSuI), [link_2](https://www.youtube.com/watch?v=OSGv2VnC0go), [link_3](https://studylib.net/doc/11685039/python-idioms-safe-hammad-python-northwest-16), [link_4](https://docs.python-guide.org/writing/style/), [link_5](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html) ]
     - File Handling [ Rafsanjani's Note ]
     - Problem Solving
-  
+    
   - Week #7:
+    - Introduction to Competitive Programming
+    - Problem Solving
+  
+  - Week #8:
     - Introduction to Data Mining
-    - Web Scraping, Web Crawling
+    - Web Scraping & Web Crawling
     - Problem Solving
     
-  - Week #8:
+  - Week #9:
     - Advanced Data Mining
-    - Web Scraping, Web Crawling
+    - Advanced Web Scraping & Web Crawling
     - Problem Solving
      
   - Week #9:
@@ -60,12 +70,8 @@
     - Excel Manipulation with Python
     - Problem Solving
     
-  - Week #12:
-    - Advanced Excel Manipulation with Python
-    - Problem Solving
-    
   - Week #13:
-    - TensorFlow, PyTorch
+    - PyTorch, TensorFlow, OpenCV
     - Problem Solving
   
   - Week #14:
