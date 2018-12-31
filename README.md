@@ -64,19 +64,15 @@
     - Problem Solving
     
   - Week #12:
-    - Visualization Data with `matplotlib`
+    - Visualization Data with `matplotlib` and `Google Spreadsheet`
     - Problem Solving
     
   - Week #13:
     - Excel Manipulation with Python
     - Problem Solving
     
-  - Week #14:
-    - PyTorch, TensorFlow, OpenCV
-    - Problem Solving
-  
   - Week #15:
-    - Some Successful Project on Python
+    - Some Successful Machine Learning Project on Python
     - Problem Solving
 
 # Learning Resources
