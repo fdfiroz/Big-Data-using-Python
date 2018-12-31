@@ -55,7 +55,7 @@
     - Introduction to Data Mining
     - Web Scraping & Web Crawling
     - Problem Solving
-    - Blogs [ [A Practical Guide to Web Scraping](http://complx.me/2016-08-25-scrapy-guide/), [Web Scraping in Python (scrapy)](https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/) ]
+    - Blogs / Slides [ [A Practical Guide to Web Scraping](http://complx.me/2016-08-25-scrapy-guide/), [Web Scraping in Python (scrapy)](https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/) ]
     
   - Week #10:
     - Advanced Data Mining
@@ -66,6 +66,7 @@
     - Introduction to Data Science
     - `NumPy`, `pandas`, `SciPy`
     - Problem Solving
+    - Slides / Blogs [ [Numpy Online](http://cs231n.github.io/python-numpy-tutorial/), [Pandas Online-1](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python), [Pandas Online-2](https://www.dataquest.io/blog/pandas-python-tutorial/), [Pandas Data Analysis Video-1](https://www.youtube.com/watch?v=oGzU688xCUs&t=3s), [Pandas Data Analysis Video-2](https://www.youtube.com/watch?v=V0u6bxQOUJ8) ]
     
   - Week #12:
     - Visualization Data with `matplotlib` and `Google Spreadsheet`
