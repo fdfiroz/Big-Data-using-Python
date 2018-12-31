@@ -76,6 +76,8 @@
     - Financial Technology (FINTECH) with Python
     - Excel Manipulation with Python
     - Problem Solving
+    - Books [ [Python for Finance](https://doc.lagout.org/programmation/python/Python%20for%20Finance_%20Analyze%20Big%20Financial%20Data%20%5BHilpisch%202014-12-27%5D.pdf) ]
+    - Blogs / Slides [ [Google SpreadSheet with Python-1](https://towardsdatascience.com/how-to-access-google-sheet-data-using-the-python-api-and-convert-to-pandas-dataframe-5ec020564f0e), [Google SpreadSheet with Python-2](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html) ]
     
   - Week #14:
     - Some Successful Machine Learning Project on Python
