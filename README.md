@@ -32,7 +32,7 @@
     - Function
     - Object-Oriented Programming 
     - Problem Solving
-    - Slides [ [Big Data using Python-5](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/OOP%20Python.pdf), [OOP Python by Dr. Greene](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/OOP%20Python%20Online.pdf) ]
+    - Slides [ [OOP Python](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/OOP%20Python.pdf), [OOP Python by Dr. Greene](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/OOP%20Python%20Online.pdf) ]
   
   - Week #6:
     - Time Complexity Analysis
