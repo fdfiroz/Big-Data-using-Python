@@ -95,7 +95,7 @@
 
 ### Videos:
 - Learn Python (Full Course for Beginners) [ [link](https://www.youtube.com/watch?v=rfscVS0vtbw&feature=youtu.be) ]
-- Class Lectures [ [link](http://bigdatawithpython.tk/) ]
+- Class Lectures [ [link](https://sites.google.com/view/odin-training) ]
 
 ### Blogs:
 - GeeksForGeeks [ [link](https://www.geeksforgeeks.org/python-programming-language) ]
