@@ -4,8 +4,6 @@
 ##### 3. Introduction to Data Science (Week 9 to 12)
 ##### 4. Python for Industries (Week 13 to 14)
 
-### To know about the instructor: [by clicking here!](http://rafsanjani.pythonanywhere.com)
-
 # Course Schedule
   - Week #1:
     - Flow Chart
@@ -112,3 +110,5 @@
 - PyCharm [ [link](https://www.jetbrains.com/pycharm/download/#section=windows) ]
 - Online IDE [ [GeeksForGeeks](https://ide.geeksforgeeks.org/) ]
 - Online IDE [ [Visualized Python](http://www.pythontutor.com/visualize.html#mode=edit) ]
+
+## To know about the instructor: [by clicking here!](http://rafsanjani.pythonanywhere.com)
