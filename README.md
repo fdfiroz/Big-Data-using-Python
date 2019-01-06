@@ -4,7 +4,7 @@
 ##### 3. Introduction to Data Science (Week 9 to 12)
 ##### 4. Python for Industries (Week 13 to 14)
 
-## To know about the instructor: [by clicking here!](http://rafsanjani.pythonanywhere.com)
+### To know about the instructor: [by clicking here!](http://rafsanjani.pythonanywhere.com)
 
 # Course Schedule
   - Week #1:
