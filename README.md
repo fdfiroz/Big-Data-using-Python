@@ -111,4 +111,4 @@
 - Online IDE [ [GeeksForGeeks](https://ide.geeksforgeeks.org/) ]
 - Online IDE [ [Visualized Python](http://www.pythontutor.com/visualize.html#mode=edit) ]
 
-`To know about the instructor: [by clicking here!](http://rafsanjani.pythonanywhere.com)`
+# To know about the instructor: [by clicking here!](http://rafsanjani.pythonanywhere.com)
