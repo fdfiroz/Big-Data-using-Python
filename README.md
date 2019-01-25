@@ -104,7 +104,7 @@
 - Learn Python [ [link](https://www.learnpython.org/) ]
 
 # Essential Software
-#### Interpreter
+#### Interpreter:
 - Python basic [ [link](https://www.python.org/) ]
 - Anaconda [ [link](https://www.anaconda.com/download/) ]
 
