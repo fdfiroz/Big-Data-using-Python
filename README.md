@@ -56,7 +56,7 @@
     - Introduction to Data Mining
     - Web Scraping & Web Crawling
     - Problem Solving
-    - Blogs / Slides [ [A Practical Guide to Web Scraping](http://complx.me/2016-08-25-scrapy-guide/), [Web Scraping in Python (scrapy)](https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/) ]
+    - Blogs / Slides [ [A Practical Guide to Web Scraping](http://complx.me/2016-08-25-scrapy-guide/), [Beautiful Soup](https://www.dataquest.io/blog/web-scraping-tutorial-python/), [Web Scraping in Python (scrapy)](https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/) ]
     
   - Week #10:
     - Advanced Data Mining
