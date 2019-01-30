@@ -52,7 +52,7 @@
     - Problem Solving
     - Slides [ [Introduction Competitive Programming](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/Introduction%20to%20competitive%20programming.pdf) ]
   
-  - Week #9:
+  - Week #9 and #10:
     - Introduction to Data Mining
     - Web Scraping & Web Crawling
     - Problem Solving
@@ -60,11 +60,6 @@
     - Videos [ [link_1](https://www.youtube.com/watch?v=ng2o98k983k) ]
     - Blogs / Slides [ [A Practical Guide to Web Scraping](http://complx.me/2016-08-25-scrapy-guide/), [Beautiful Soup](https://www.dataquest.io/blog/web-scraping-tutorial-python/), [Web Scraping in Python (scrapy)](https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/) ]
     
-  - Week #10:
-    - Advanced Data Mining
-    - Advanced Web Scraping & Web Crawling
-    - Problem Solving
-     
   - Week #11:
     - Introduction to Data Science
     - `NumPy`, `pandas`, `SciPy`
