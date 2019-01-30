@@ -18,15 +18,10 @@
     - Assignment Solution (Previous Week) [ [link_1](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/assignmentWeek1.docx), [link_2](https://github.com/0mithun/python-conditional-statement-assignment) ]
     - Slides [ [Big Data using Python-3](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/Big%20Data%20with%20Python-3.pdf) ]
     
-  - Week #3:
-    - Python Data Structures (Basic): Array (List), String, Tuple, Set, Dictionay, Stack, Queue
+  - Week #3 and #4:
+    - Python Data Structures: Array (List), String, Tuple, Set, Dictionay, Stack, Queue
     - Problem Solving
     - Slides [ [Python String](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/Python%20String.pdf), [Big Data using Python-4](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/Big%20Data%20with%20Python-4.pdf) ]
-  
-  - Week #4:
-    - Python Data Structures (Advanced): Array (List), String, Tuple, Set, Dictionay, Stack, Queue
-    - Problem Solving
-    - Slides [ [Big Data using Python-4](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/Big%20Data%20with%20Python-4.pdf) ]
   
   - Week #5:
     - Function
