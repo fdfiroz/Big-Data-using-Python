@@ -43,7 +43,7 @@
     
   - Week #7:
     - Write an efficient programme in Python [ [link_1](https://www.youtube.com/watch?v=YjHsOrOOSuI), [link_2](https://www.youtube.com/watch?v=OSGv2VnC0go), [link_3](https://studylib.net/doc/11685039/python-idioms-safe-hammad-python-northwest-16), [link_4](https://docs.python-guide.org/writing/style/), [link_5](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html) ]
-    - File Handling [ Rafsanjani's Note ]
+    - File Handling [ Rafsanjani's Note: [link_1](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/File_Input_Python_Style_1.0.png), [link_2](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/File_Input_Python_Style_1.1.png), [link_3](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/File_Input_Python_Style_1.2.png), [link_4](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/File_Input_Python_Style_3.png), [link_5](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/File_Input_Python_Style_4.png), [link_6: Find words (vowel) from the dictionary](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/find_all_vowel_from_dictionary.png) ]
     - Problem Solving
     - Slides [ [Writing Faster Code by S. Witowski](http://switowski.github.io/europython2016/#/), [Python Idioms by S. Hammad](https://github.com/mrzResearchArena/Big-Data-using-Python/blob/master/python-idioms.pdf) ]
     
