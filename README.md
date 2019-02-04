@@ -51,7 +51,7 @@
     - Introduction to Data Mining
     - Web Scraping & Web Crawling
     - Problem Solving
-    - Codes [ [link_1](https://paste.ubuntu.com/p/yGtTvbYtTY/) ]
+    - Codes [ [link_1](https://paste.ubuntu.com/p/yGtTvbYtTY/), [link_2](https://paste.ubuntu.com/p/7dZTTrzkb9/) ]
     - Videos [ [link_1](https://www.youtube.com/watch?v=ng2o98k983k) ]
     - Blogs / Slides [ [A Practical Guide to Web Scraping](http://complx.me/2016-08-25-scrapy-guide/), [Beautiful Soup](https://www.dataquest.io/blog/web-scraping-tutorial-python/), [Web Scraping in Python (scrapy)](https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/) ]
     
